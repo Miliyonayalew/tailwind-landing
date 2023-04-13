@@ -60,7 +60,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Miliyonayalew/Portfolio-1.0/issues).
+Feel free to check the [issues page](https://github.com/Miliyonayalew/tailwind-landing/issues).
 
 
 ## ⭐️ Show your support <a name="support"></a>

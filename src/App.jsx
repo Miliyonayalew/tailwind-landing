@@ -84,7 +84,7 @@ function App() {
         </section>
       </section>
       <section className="bg-gray-800 py-12 mt-12 w-full flex flex-col items-center border-t-2 border-black">
-        <h2 className="font-bold text-xl text-gray-400">Sign up to download the free PDF</h2>
+        <h2 className="font-bold text-xl text-center text-gray-400">Sign up to download the free PDF</h2>
         <form className="max-w-xl w-full text-gray-200 mt-4 px-8 md:px-0" action="#" method="post">
           <div className="flex flex-col md:flex-row md:-mx-2">
             <label for="first_name" className="sr-only">First Name</label>

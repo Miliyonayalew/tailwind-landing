@@ -108,7 +108,14 @@ function App() {
         </form>
       </section>
      </main>
-       </div>
+     <footer className="bg-gray-800 w-full text-center pb-8">
+            <p className="text-sm text-gray-600 mt-4 font-light">Copyright &copy;
+    {' '}
+    {new Date().getFullYear()}
+    {' '}
+    Miliyon A. All Rights reserved.</p>
+    </footer>
+    </div>
   )
 }
 
